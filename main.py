@@ -27,7 +27,7 @@ def sign(cookie):
         result += "今日已签到"
     else:
         result += "签到失败"
-    return 
+    return result 
 
 def main():
     b = os.environ['POJIE']
