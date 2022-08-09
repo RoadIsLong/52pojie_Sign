@@ -1,11 +1,11 @@
-name: '52Pojie Auto Sign'
+name: "吾爱破解签到"
 
 on:
-  push:
-    branches:
-      - master
+  workflow_dispatch:
   schedule:
-    - cron: '0 18,10 * * *'
+    - cron: "0 10,18  * * *"
+  watch:
+    types: [started]
 
 jobs:
   sign:
