@@ -24,10 +24,10 @@ def sign(cookie):
     elif "恭喜" in fc:
         result += "签到成功"
     elif "不是进行中的任务" in fc:
-        result += "不是进行中的任务"
+        result += "今日已签到"
     else:
         result += "签到失败"
-    return result
+    return 
 
 def main():
     b = os.environ['POJIE']
@@ -37,6 +37,4 @@ def main():
 
 
 if __name__ == "__main__":
-    print('start')
     main()
-    print('end')
