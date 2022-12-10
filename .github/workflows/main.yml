@@ -3,7 +3,13 @@ name: "吾爱破解签到"
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 10,18  * * *"
+    - cron: '17 3 * * 0'
+    - cron: '26 4 * * 1'
+    - cron: '45 2 * * 2'
+    - cron: '53 3 * * 3'
+    - cron: '47 4 * * 4'
+    - cron: '21 2 * * 5'
+    - cron: '6 4 * * 6'
   watch:
     types: [started]
 
