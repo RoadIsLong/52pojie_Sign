@@ -16,3 +16,4 @@
 
 4.至此自动签到就搭建完毕了，可以再次点击Actions查看工作记录，如果有52Pojie Auto Sign则说明workflow创建成功了。点击右侧记录可以查看详细签到情况
  ![image](https://user-images.githubusercontent.com/30728105/165697734-a38d6d46-db0e-40a1-8b21-e0d50443de36.png)
+5
