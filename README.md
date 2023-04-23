@@ -1,4 +1,4 @@
-# 吾爱破解自动签到Github Action 版
+# 吾爱破解自动签到 Github Action 版
 
 ## 使用说明
 0.获取你的Cookie
