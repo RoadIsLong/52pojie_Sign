@@ -1,3 +1,18 @@
+<font color=red size=5 face="黑体">由于吾爱开启了js反爬,此仓库已失效.有好的解决办法可以留言</font>
+<font color=red size=5 face="黑体">由于吾爱开启了js反爬,此仓库已失效.有好的解决办法可以留言</font>
+<font color=red size=5 face="黑体">由于吾爱开启了js反爬,此仓库已失效.有好的解决办法可以留言</font>
+<font color=red size=5 face="黑体">由于吾爱开启了js反爬,此仓库已失效.有好的解决办法可以留言</font>
+
+***
+***
+***
+***
+***
+***
+
+
+
+
 # 吾爱破解自动签到Github Action 版
 
 ## 使用说明
